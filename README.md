@@ -16,10 +16,6 @@ React • Node.js • C# • .NET • TypeScript • SQL • Angular
 - TodoList Minimal API
 - DriveEasy Car Rental System
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeahD123&show_icons=true&theme=github_dark)
-
 
 ## 📫 Contact
 leah.dachkov@gmail.com
