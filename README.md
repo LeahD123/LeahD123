@@ -18,7 +18,7 @@ React • Node.js • C# • .NET • TypeScript • SQL • Angular
 
 ## 📊 GitHub Stats
 
-![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahD123&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeahD123&show_icons=true&theme=github_dark)
 
 
 ## 📫 Contact
